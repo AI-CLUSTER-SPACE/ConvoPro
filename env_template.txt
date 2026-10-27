@@ -1,0 +1,4 @@
+MONGO_DB_URL="mongo://localhost:27017/"
+MONGO_DB_NAME="convo_pro"
+OLLAMA_URL="http://localhost:11434"
+OLLAMA_MODELS="gemma2:2b,lamma3:latest,mistrel:7b"

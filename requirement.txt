@@ -1,0 +1,7 @@
+streamlit
+ollama
+llama-index-llms-ollama
+pymongo
+pydantic
+pydantic-settings
+python-dotenv
